@@ -1,0 +1,163 @@
+abc
+99
+1
+1
+BK-001
+Pemrograman C++ Dasar
+Budi Santoso
+x
+0
+2024
+2
+1
+BK-002
+Basis Data Relasional
+Sari
+1
+2023
+0
+1
+bk-3
+BK-001
+BK-003
+Jaringan Komputer
+Rina
+2
+2022
+5
+1
+BK-004
+Kalkulus Teknik
+Agus
+3
+2021
+5
+1
+BK-005
+Pengantar Teknologi Informasi
+Dewi
+4
+2020
+3
+2
+BK-005
+
+Dewi Lestari
+
+
+
+4
+4
+0
+2
+1
+AG-001
+Made Ayu
+Teknologi Informasi
+1
+AG-002
+Komang Budi
+Teknik Elektro
+1
+AG-001
+AG-003
+Ni Luh Putu
+Teknik Sipil
+2
+AG-003
+
+Arsitektur
+3
+0
+4
+AG-001
+BK-001
+3 11 2026
+4
+AG-001
+BK-003
+4/11/2026
+4
+AG-001
+BK-004
+5-11-2026
+4
+AG-001
+BK-005
+6 11 2026
+4
+AG-002
+BK-002
+6 11 2026
+4
+AG-009
+BK-001
+6 11 2026
+4
+AG-002
+BK-099
+6 11 2026
+4
+AG-002
+x
+BK-001
+31 2 2026
+abc
+7 11 2026
+1
+3
+BK-003
+0
+5
+abc
+1
+10 11 2026
+5
+2
+1 11 2026
+5
+2
+20 11 2026
+5
+2
+21 11 2026
+5
+99
+21 11 2026
+3
+1
+2
+3
+4
+0
+6
+1
+DATA
+1
+zzz
+2
+bk-004
+2
+BK-777
+2
+abc
+
+0
+7
+abc
+2026
+8
+9
+AG-001
+9
+AG-003
+9
+AG-777
+1
+3
+BK-002
+x
+y
+4
+0
+0

@@ -1,0 +1,15 @@
+# Hasil kompilasi (dibuat ulang dengan perintah di README.txt)
+*.exe
+*.o
+*.obj
+*.pdb
+sipus
+uji
+sipus_asan
+uji_asan
+sipus_g
+uji_g
+
+# Data yang dibuat program saat dijalankan
+data_*.txt
+uji_tmp_*.txt
